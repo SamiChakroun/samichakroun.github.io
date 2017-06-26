@@ -1,4 +1,6 @@
-Responsive HTML5 website template for developers
+This website was built based on the responsive HTML5 website template for developers from Xiaoying Riley.
+
+Special thanks for this simple and neat template.
 
 Theme name:
 =======================================================================
